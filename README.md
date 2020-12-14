@@ -10,4 +10,4 @@ would suffice. I personally define the word "fair" as a way of action where no p
 because no one is treated differently, they are queued based upon the time they arrive essentially, which is the best way to do things. In terms of data, the FIFO queue
 seemed to have performed better, with slightly decreasing the average wait time for each group. However, the SJO queue won the shortest total wait time and the shortest average wait time. 
 
-Thank you again for a great semester. I turned this in late unfortunately due to some family issues but I completed it nonetheless to the best of my abilities. 
+Thank you again for a great semester
